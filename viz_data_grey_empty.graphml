@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="birthyear" attr.type="double" for="node" id="v_birthyear"/>
+<key attr.name="position" attr.type="string" for="node" id="v_position"/>
+<key attr.name="race" attr.type="string" for="node" id="v_race"/>
+<key attr.name="season" attr.type="double" for="node" id="v_season"/>
+<key attr.name="sex" attr.type="string" for="node" id="v_sex"/>
+<key attr.name="sign" attr.type="string" for="node" id="v_sign"/>
+<key attr.name="vertex.names" attr.type="string" for="node" id="v_vertex.names"/>
+<graph edgedefault="undirected">
+<node id="n0">
+<data key="label">addison</data>
+<data key="v_birthyear">1967.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">White</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Libra</data>
+<data key="v_vertex.names">addison</data>
+<data key="size">4.0</data>
+<data key="r">191</data>
+<data key="g">191</data>
+<data key="b">191</data>
+<data key="x">-56.73878</data>
+<data key="y">-22.873138</data>
+</node>
+<node id="n1">
+<data key="label">adele</data>
+<data key="v_birthyear">1949.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">Black</data>
+<data key="v_season">2.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Leo</data>
+<data key="v_vertex.names">adele</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">211.17625</data>
+<data key="y">-84.10754</data>
+</node>
+<node id="n2">
+<data key="label">altman</data>
+<data key="v_birthyear">1969.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">White</data>
+<data key="v_season">6.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Pisces</data>
+<data key="v_vertex.names">altman</data>
+<data key="size">4.0</data>
+<data key="r">159</data>
+<data key="g">159</data>
+<data key="b">159</data>
+<data key="x">-79.07435</data>
+<data key="y">23.833824</data>
+</node>
+<node id="n3">
+<data key="label">amelia</data>
+<data key="v_birthyear">1981.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">White</data>
+<data key="v_season">7.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Libra</data>
+<data key="v_vertex.names">amelia</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-47.661938</data>
+<data key="y">4.8475394</data>
+</node>
+<node id="n4">
+<data key="label">arizona</data>
+<data key="v_birthyear">1976.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">White</data>
+<data key="v_season">5.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Leo</data>
+<data key="v_vertex.names">arizona</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-53.141296</data>
+<data key="y">-18.155678</data>
+</node>
+<node id="n5">
+<data key="label">ava</data>
+<data key="v_birthyear">1975.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">White</data>
+<data key="v_season">3.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Gemini</data>
+<data key="v_vertex.names">ava</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-35.62225</data>
+<data key="y">-41.74674</data>
+</node>
+<node id="n6">
+<data key="label">avery</data>
+<data key="v_birthyear">1981.0</data>
+<data key="v_position">Resident</data>
+<data key="v_race">Black</data>
+<data key="v_season">6.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Leo</data>
+<data key="v_vertex.names">avery</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">223</data>
+<data key="b">223</data>
+<data key="x">-26.173822</data>
+<data key="y">-19.541624</data>
+</node>
+<node id="n7">
+<data key="label">bailey</data>
+<data key="v_birthyear">1969.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">Black</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Virgo</data>
+<data key="v_vertex.names">bailey</data>
+<data key="size">4.0</data>
+<data key="r">191</data>
+<data key="g">191</data>
+<data key="b">191</data>
+<data key="x">106.20376</data>
+<data key="y">45.354797</data>
+</node>
+<node id="n8">
+<data key="label">ben</data>
+<data key="v_birthyear">1972.0</data>
+<data key="v_position">Other</data>
+<data key="v_race">Black</data>
+<data key="v_season">6.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Aquarius</data>
+<data key="v_vertex.names">ben</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">161.30644</data>
+<data key="y">108.46675</data>
+</node>
+<node id="n9">
+<data key="label">burton</data>
+<data key="v_birthyear">1972.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">White</data>
+<data key="v_season">7.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Cancer</data>
+<data key="v_vertex.names">burton</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-55.928284</data>
+<data key="y">31.809763</data>
+</node>
+<node id="n10">
+<data key="label">catherine</data>
+<data key="v_birthyear">1950.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">Other</data>
+<data key="v_season">8.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Capricorn</data>
+<data key="v_vertex.names">catherine</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">188.4135</data>
+<data key="y">-66.921745</data>
+</node>
+<node id="n11">
+<data key="label">chief</data>
+<data key="v_birthyear">1954.0</data>
+<data key="v_position">Chief</data>
+<data key="v_race">Black</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Scorpio</data>
+<data key="v_vertex.names">chief</data>
+<data key="size">4.0</data>
+<data key="r">191</data>
+<data key="g">191</data>
+<data key="b">191</data>
+<data key="x">167.12967</data>
+<data key="y">-83.00194</data>
+</node>
+<node id="n12">
+<data key="label">colin</data>
+<data key="v_birthyear">1944.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">White</data>
+<data key="v_season">3.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Taurus</data>
+<data key="v_vertex.names">colin</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-61.490246</data>
+<data key="y">64.32421</data>
+</node>
+<node id="n13">
+<data key="label">denny</data>
+<data key="v_birthyear">1966.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">White</data>
+<data key="v_season">2.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Taurus</data>
+<data key="v_vertex.names">denny</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-46.339718</data>
+<data key="y">-61.024555</data>
+</node>
+<node id="n14">
+<data key="label">derek</data>
+<data key="v_birthyear">1966.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">White</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Capricorn</data>
+<data key="v_vertex.names">derek</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">223</data>
+<data key="b">223</data>
+<data key="x">-70.356316</data>
+<data key="y">-33.23175</data>
+</node>
+<node id="n15">
+<data key="label">ellis.grey</data>
+<data key="v_birthyear">1957.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">White</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Virgo</data>
+<data key="v_vertex.names">ellis.grey</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">223</data>
+<data key="b">223</data>
+<data key="x">215.25977</data>
+<data key="y">-106.5704</data>
+</node>
+<node id="n16">
+<data key="label">finn</data>
+<data key="v_birthyear">1970.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">White</data>
+<data key="v_season">2.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Cancer</data>
+<data key="v_vertex.names">finn</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-83.65506</data>
+<data key="y">-45.443714</data>
+</node>
+<node id="n17">
+<data key="label">grey</data>
+<data key="v_birthyear">1969.0</data>
+<data key="v_position">Resident</data>
+<data key="v_race">White</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Scorpio</data>
+<data key="v_vertex.names">grey</data>
+<data key="size">4.0</data>
+<data key="r">159</data>
+<data key="g">159</data>
+<data key="b">159</data>
+<data key="x">-76.080605</data>
+<data key="y">-44.09129</data>
+</node>
+<node id="n18">
+<data key="label">hahn</data>
+<data key="v_birthyear">1967.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">White</data>
+<data key="v_season">2.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Gemini</data>
+<data key="v_vertex.names">hahn</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-46.912598</data>
+<data key="y">-18.276342</data>
+</node>
+<node id="n19">
+<data key="label">hank</data>
+<data key="v_birthyear">1975.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">White</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Sagittarius</data>
+<data key="v_vertex.names">hank</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-50.790478</data>
+<data key="y">-61.060253</data>
+</node>
+<node id="n20">
+<data key="label">izzie</data>
+<data key="v_birthyear">1978.0</data>
+<data key="v_position">Resident</data>
+<data key="v_race">White</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Sagittarius</data>
+<data key="v_vertex.names">izzie</data>
+<data key="size">4.0</data>
+<data key="r">159</data>
+<data key="g">159</data>
+<data key="b">159</data>
+<data key="x">-48.514748</data>
+<data key="y">-53.195625</data>
+</node>
+<node id="n21">
+<data key="label">karev</data>
+<data key="v_birthyear">1970.0</data>
+<data key="v_position">Resident</data>
+<data key="v_race">White</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Cancer</data>
+<data key="v_vertex.names">karev</data>
+<data key="size">4.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-39.275414</data>
+<data key="y">-34.2307</data>
+</node>
+<node id="n22">
+<data key="label">kepner</data>
+<data key="v_birthyear">1980.0</data>
+<data key="v_position">Resident</data>
+<data key="v_race">White</data>
+<data key="v_season">6.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Libra</data>
+<data key="v_vertex.names">kepner</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">223</data>
+<data key="b">223</data>
+<data key="x">-27.59883</data>
+<data key="y">-26.75807</data>
+</node>
+<node id="n23">
+<data key="label">lexi</data>
+<data key="v_birthyear">1982.0</data>
+<data key="v_position">Resident</data>
+<data key="v_race">White</data>
+<data key="v_season">3.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Aries</data>
+<data key="v_vertex.names">lexi</data>
+<data key="size">4.0</data>
+<data key="r">191</data>
+<data key="g">191</data>
+<data key="b">191</data>
+<data key="x">-34.736614</data>
+<data key="y">-16.234459</data>
+</node>
+<node id="n24">
+<data key="label">lloyd</data>
+<data key="v_birthyear">1971.0</data>
+<data key="v_position">Nurse</data>
+<data key="v_race">Black</data>
+<data key="v_season">7.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Capricorn</data>
+<data key="v_vertex.names">lloyd</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">154.08916</data>
+<data key="y">109.11879</data>
+</node>
+<node id="n25">
+<data key="label">lucy</data>
+<data key="v_birthyear">1984.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">White</data>
+<data key="v_season">7.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Cancer</data>
+<data key="v_vertex.names">lucy</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-31.056997</data>
+<data key="y">-36.05403</data>
+</node>
+<node id="n26">
+<data key="label">megan</data>
+<data key="v_birthyear">1979.0</data>
+<data key="v_position">Intern</data>
+<data key="v_race">White</data>
+<data key="v_season">4.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">NA</data>
+<data key="v_vertex.names">megan</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">223</data>
+<data key="b">223</data>
+<data key="x">17.89922</data>
+<data key="y">220.88118</data>
+</node>
+<node id="n27">
+<data key="label">mostow</data>
+<data key="v_birthyear">1985.0</data>
+<data key="v_position">Intern</data>
+<data key="v_race">White</data>
+<data key="v_season">4.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Gemini</data>
+<data key="v_vertex.names">mostow</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">14.319727</data>
+<data key="y">220.95207</data>
+</node>
+<node id="n28">
+<data key="label">mrs..seabury</data>
+<data key="v_birthyear">1952.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">White</data>
+<data key="v_season">3.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Leo</data>
+<data key="v_vertex.names">mrs..seabury</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-31.732626</data>
+<data key="y">-40.17728</data>
+</node>
+<node id="n29">
+<data key="label">nancy</data>
+<data key="v_birthyear">1965.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">White</data>
+<data key="v_season">3.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Leo</data>
+<data key="v_vertex.names">nancy</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-42.869293</data>
+<data key="y">2.7333453</data>
+</node>
+<node id="n30">
+<data key="label">olivia</data>
+<data key="v_birthyear">1982.0</data>
+<data key="v_position">Nurse</data>
+<data key="v_race">White</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Capricorn</data>
+<data key="v_vertex.names">olivia</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">223</data>
+<data key="b">223</data>
+<data key="x">-49.295307</data>
+<data key="y">-41.1641</data>
+</node>
+<node id="n31">
+<data key="label">o.malley</data>
+<data key="v_birthyear">1973.0</data>
+<data key="v_position">Resident</data>
+<data key="v_race">White</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Aries</data>
+<data key="v_vertex.names">o.malley</data>
+<data key="size">4.0</data>
+<data key="r">159</data>
+<data key="g">159</data>
+<data key="b">159</data>
+<data key="x">-58.143898</data>
+<data key="y">-42.55191</data>
+</node>
+<node id="n32">
+<data key="label">owen</data>
+<data key="v_birthyear">1973.0</data>
+<data key="v_position">Chief</data>
+<data key="v_race">White</data>
+<data key="v_season">5.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Leo</data>
+<data key="v_vertex.names">owen</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">223</data>
+<data key="b">223</data>
+<data key="x">-55.680153</data>
+<data key="y">45.75343</data>
+</node>
+<node id="n33">
+<data key="label">perkins</data>
+<data key="v_birthyear">1965.0</data>
+<data key="v_position">Other</data>
+<data key="v_race">White</data>
+<data key="v_season">7.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Leo</data>
+<data key="v_vertex.names">perkins</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-141.85254</data>
+<data key="y">61.418255</data>
+</node>
+<node id="n34">
+<data key="label">pierce</data>
+<data key="v_birthyear">1986.0</data>
+<data key="v_position">Intern</data>
+<data key="v_race">White</data>
+<data key="v_season">4.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">NA</data>
+<data key="v_vertex.names">pierce</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">21.334534</data>
+<data key="y">219.81038</data>
+</node>
+<node id="n35">
+<data key="label">preston</data>
+<data key="v_birthyear">1963.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">Black</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Leo</data>
+<data key="v_vertex.names">preston</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-56.71716</data>
+<data key="y">65.1323</data>
+</node>
+<node id="n36">
+<data key="label">reed</data>
+<data key="v_birthyear">1981.0</data>
+<data key="v_position">Resident</data>
+<data key="v_race">White</data>
+<data key="v_season">6.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Aquarius</data>
+<data key="v_vertex.names">reed</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-52.89339</data>
+<data key="y">2.9003465</data>
+</node>
+<node id="n37">
+<data key="label">sloan</data>
+<data key="v_birthyear">1972.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">White</data>
+<data key="v_season">2.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Scorpio</data>
+<data key="v_vertex.names">sloan</data>
+<data key="size">4.0</data>
+<data key="r">63</data>
+<data key="g">63</data>
+<data key="b">63</data>
+<data key="x">-48.094337</data>
+<data key="y">-2.287062</data>
+</node>
+<node id="n38">
+<data key="label">steve</data>
+<data key="v_birthyear">1984.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">Other</data>
+<data key="v_season">2.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Gemini</data>
+<data key="v_vertex.names">steve</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">-81.746284</data>
+<data key="y">-49.495342</data>
+</node>
+<node id="n39">
+<data key="label">susan.grey</data>
+<data key="v_birthyear">1959.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">White</data>
+<data key="v_season">2.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Taurus</data>
+<data key="v_vertex.names">susan.grey</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">155.80548</data>
+<data key="y">-151.05217</data>
+</node>
+<node id="n40">
+<data key="label">thatch.grey</data>
+<data key="v_birthyear">1955.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">White</data>
+<data key="v_season">2.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Leo</data>
+<data key="v_vertex.names">thatch.grey</data>
+<data key="size">4.0</data>
+<data key="r">223</data>
+<data key="g">223</data>
+<data key="b">223</data>
+<data key="x">178.6931</data>
+<data key="y">-114.222595</data>
+</node>
+<node id="n41">
+<data key="label">torres</data>
+<data key="v_birthyear">1975.0</data>
+<data key="v_position">Attending</data>
+<data key="v_race">Other</data>
+<data key="v_season">2.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Virgo</data>
+<data key="v_vertex.names">torres</data>
+<data key="size">4.0</data>
+<data key="r">127</data>
+<data key="g">127</data>
+<data key="b">127</data>
+<data key="x">-49.210224</data>
+<data key="y">-23.118708</data>
+</node>
+<node id="n42">
+<data key="label">tucker</data>
+<data key="v_birthyear">1970.0</data>
+<data key="v_position">Non-Staff</data>
+<data key="v_race">Black</data>
+<data key="v_season">2.0</data>
+<data key="v_sex">M</data>
+<data key="v_sign">Leo</data>
+<data key="v_vertex.names">tucker</data>
+<data key="size">4.0</data>
+<data key="r">255</data>
+<data key="g">255</data>
+<data key="b">255</data>
+<data key="x">105.95086</data>
+<data key="y">49.673084</data>
+</node>
+<node id="n43">
+<data key="label">yang</data>
+<data key="v_birthyear">1971.0</data>
+<data key="v_position">Resident</data>
+<data key="v_race">Other</data>
+<data key="v_season">1.0</data>
+<data key="v_sex">F</data>
+<data key="v_sign">Cancer</data>
+<data key="v_vertex.names">yang</data>
+<data key="size">4.0</data>
+<data key="r">191</data>
+<data key="g">191</data>
+<data key="b">191</data>
+<data key="x">-58.197903</data>
+<data key="y">59.578682</data>
+</node>
+<edge source="n0" target="n14">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n0" target="n21">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n0" target="n37">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n1" target="n11">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n2" target="n9">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n2" target="n32">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n2" target="n33">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n2" target="n37">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n3" target="n37">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n4" target="n41">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n5" target="n21">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n6" target="n22">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n6" target="n23">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n7" target="n8">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n7" target="n24">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n7" target="n42">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n10" target="n11">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n11" target="n15">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n12" target="n43">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n13" target="n20">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n14" target="n17">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n15" target="n40">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n16" target="n17">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n17" target="n31">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n17" target="n38">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n18" target="n41">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n19" target="n20">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n20" target="n21">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n20" target="n31">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n21" target="n22">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n21" target="n23">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n21" target="n25">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n21" target="n28">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n21" target="n30">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n21" target="n41">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n23" target="n37">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n26" target="n27">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n26" target="n34">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n29" target="n37">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n30" target="n31">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n31" target="n41">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n32" target="n43">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n35" target="n43">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n36" target="n37">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n37" target="n41">
+<data key="weight">1.0</data>
+</edge>
+<edge source="n39" target="n40">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>

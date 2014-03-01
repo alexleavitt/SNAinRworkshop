@@ -1,0 +1,35 @@
+
+- Going through the interfaces: Overview, Data, Presentation
+
+- (Quick) Creating Data
+
+- Importing Data
+
+- Moving Around
+
+- Color, Resizing, and Layout
+
+- More Layouts
+
+- Selecting Nodes in the Data Viewer
+
+- Labels
+
+- Network Measures
+
+- Community Detection & Modularity
+
+- Partitioning & Filtering
+
+- Exporting Final Visualizations
+
+==========
+LUNCH TIME
+==========
+
+If you want to visualize your own Facebook network, you can follow these instructions to get the data:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Importing network dataset from Facebook
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1. Log in to your Facebook account, and go tohttps://apps.facebook.com/namegendev/. You may need to use another browser to get the app to load or work. Grant permission for the application to access your account and continue.2. Under “Selecting Attributes,” click First Name, Last Name, and Gender. Click DOWNLOAD at the bottom.3. On the next page, click Download.4. On the next page, choose File Type: GraphML. Then click Download.5. Once you have downloaded your file, you can unlink the app from your Facebookaccount.
